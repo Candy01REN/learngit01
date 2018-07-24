@@ -1,2 +1,4 @@
 hello
 today is Tuesday!
+how are you
+i am happy
